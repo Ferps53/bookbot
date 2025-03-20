@@ -1,2 +1,3 @@
 # bookbot
-BookBot is a pyhton project for BootDotDev
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
